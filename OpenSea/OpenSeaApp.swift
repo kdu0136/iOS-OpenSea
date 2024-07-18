@@ -11,7 +11,7 @@ import SwiftUI
 struct OpenSeaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
         }
     }
 }
